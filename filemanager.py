@@ -11,7 +11,7 @@ box_name = Args.boxname
 # Paths
 smb_out     = box_name+"/"+"smb_out"
 bloodhound  = box_name+"/"+"bloodhound"
-nmap_folder = box_name+"/"+"nmap"
+nmap_folder = box_name+"/"+"enumeration"
 privesc_folder = box_name+"/"+"privesc"
 
 path = box_name
